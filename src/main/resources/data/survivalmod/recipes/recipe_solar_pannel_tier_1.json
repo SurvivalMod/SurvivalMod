@@ -1,0 +1,42 @@
+{
+  "group": "survivalmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:glass"
+    },
+    "1": {
+      "item": "minecraft:daylight_detector"
+    },
+    "2": {
+      "item": "minecraft:glass"
+    },
+    "3": {
+      "item": "survivalmod:iron_plate"
+    },
+    "4": {
+      "item": "survivalmod:puceelctrique"
+    },
+    "5": {
+      "item": "survivalmod:iron_plate"
+    },
+    "6": {
+      "item": "survivalmod:iron_plate"
+    },
+    "7": {
+      "item": "survivalmod:iron_plate"
+    },
+    "8": {
+      "item": "survivalmod:iron_plate"
+    }
+  },
+  "result": {
+    "item": "survivalmod:solar_pannel_tier_1",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "survivalmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "survivalmod:solar_pannel_tier_2"
+    },
+    "1": {
+      "item": "survivalmod:iron_plate"
+    },
+    "2": {
+      "item": "survivalmod:solar_pannel_tier_2"
+    },
+    "3": {
+      "item": "survivalmod:iron_plate"
+    },
+    "4": {
+      "item": "survivalmod:puceelectrique_tier_3"
+    },
+    "5": {
+      "item": "survivalmod:iron_plate"
+    },
+    "6": {
+      "item": "survivalmod:solar_pannel_tier_2"
+    },
+    "7": {
+      "item": "survivalmod:iron_plate"
+    },
+    "8": {
+      "item": "survivalmod:solar_pannel_tier_2"
+    }
+  },
+  "result": {
+    "item": "survivalmod:solar_pannel_tier_3",
+    "count": 4
+  }
+}

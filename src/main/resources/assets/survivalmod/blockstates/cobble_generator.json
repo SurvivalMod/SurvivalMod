@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "survivalmod:block/cobble_generator"
+    }
+  }
+}

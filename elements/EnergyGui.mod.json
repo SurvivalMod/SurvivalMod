@@ -1,0 +1,26 @@
+{
+  "_fv": 10,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "<energy> EU",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "<energy> EU",
+          "x": 372,
+          "y": 222
+        }
+      }
+    ]
+  }
+}

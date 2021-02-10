@@ -1,0 +1,42 @@
+{
+  "group": "survivalmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "survivalmod:puceelctrique"
+    },
+    "1": {
+      "item": "survivalmod:puceelectrique_tier_2"
+    },
+    "2": {
+      "item": "survivalmod:puceelctrique"
+    },
+    "3": {
+      "item": "survivalmod:puceelectrique_tier_2"
+    },
+    "4": {
+      "item": "minecraft:quartz"
+    },
+    "5": {
+      "item": "survivalmod:puceelectrique_tier_2"
+    },
+    "6": {
+      "item": "survivalmod:puceelctrique"
+    },
+    "7": {
+      "item": "survivalmod:puceelectrique_tier_2"
+    },
+    "8": {
+      "item": "survivalmod:puceelctrique"
+    }
+  },
+  "result": {
+    "item": "survivalmod:puceelectrique_tier_3",
+    "count": 2
+  }
+}

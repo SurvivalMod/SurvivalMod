@@ -1,0 +1,46 @@
+{
+  "_fv": 10,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 2,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Puceelctrique"
+      },
+      {
+        "value": "CUSTOM:PuceelectriqueTier2"
+      },
+      {
+        "value": "CUSTOM:Puceelctrique"
+      },
+      {
+        "value": "CUSTOM:PuceelectriqueTier2"
+      },
+      {
+        "value": "Items.QUARTZ"
+      },
+      {
+        "value": "CUSTOM:PuceelectriqueTier2"
+      },
+      {
+        "value": "CUSTOM:Puceelctrique"
+      },
+      {
+        "value": "CUSTOM:PuceelectriqueTier2"
+      },
+      {
+        "value": "CUSTOM:Puceelctrique"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PuceelectriqueTier3"
+    },
+    "name": "recipe_puce_tier_3",
+    "namespace": "mod"
+  }
+}

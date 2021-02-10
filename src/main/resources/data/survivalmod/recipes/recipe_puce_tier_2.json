@@ -1,0 +1,30 @@
+{
+  "group": "survivalmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:enchanted_book"
+    },
+    "3": {
+      "item": "minecraft:enchanted_book"
+    },
+    "4": {
+      "item": "survivalmod:puceelctrique"
+    },
+    "5": {
+      "item": "minecraft:enchanted_book"
+    },
+    "7": {
+      "item": "minecraft:enchanted_book"
+    }
+  },
+  "result": {
+    "item": "survivalmod:puceelectrique_tier_2",
+    "count": 1
+  }
+}

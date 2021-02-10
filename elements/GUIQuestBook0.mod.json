@@ -1,0 +1,79 @@
+{
+  "_fv": 10,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "0",
+          "width": 20,
+          "height": 40,
+          "name": "0",
+          "x": 264,
+          "y": 204
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "1",
+          "width": 20,
+          "height": 40,
+          "name": "1",
+          "x": 318,
+          "y": 204
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "2",
+          "width": 20,
+          "height": 40,
+          "name": "2",
+          "x": 372,
+          "y": 204
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "3",
+          "width": 20,
+          "height": 40,
+          "name": "3",
+          "x": 426,
+          "y": 204
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "4",
+          "width": 20,
+          "height": 40,
+          "name": "4",
+          "x": 480,
+          "y": 204
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "5",
+          "width": 20,
+          "height": 40,
+          "name": "5",
+          "x": 534,
+          "y": 204
+        }
+      }
+    ]
+  }
+}

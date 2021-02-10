@@ -1,0 +1,388 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "DirtGraine",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_graine"
+    },
+    {
+      "name": "RecipeDirtGraine",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_dirt_graine"
+    },
+    {
+      "name": "SolarPannelTier1",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_pannel_tier_1"
+    },
+    {
+      "name": "SolarPannelTier2",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_pannel_tier_2"
+    },
+    {
+      "name": "SolarPannelTier3",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_pannel_tier_3"
+    },
+    {
+      "name": "EnergyGui",
+      "type": "gui",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "energy_gui"
+    },
+    {
+      "name": "CobbleGenerator",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobble_generator"
+    },
+    {
+      "name": "CobbleGeneratorUpdateTick",
+      "type": "procedure",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobble_generator_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SolarPannelTier1UpdateTick",
+      "type": "procedure",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_pannel_tier_1_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SolarPannelTier2UpdateTick",
+      "type": "procedure",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_pannel_tier_2_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SolarPannelTier3UpdateTick",
+      "type": "procedure",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_pannel_tier_3_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Automate",
+      "type": "tab",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "automate"
+    },
+    {
+      "name": "IronPlate",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_plate"
+    },
+    {
+      "name": "Mateau",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mateau"
+    },
+    {
+      "name": "RecipeIronPlate",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_iron_plate"
+    },
+    {
+      "name": "Puceelctrique",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "puceelctrique"
+    },
+    {
+      "name": "RecipeSolarPannelTier1",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_solar_pannel_tier_1"
+    },
+    {
+      "name": "PuceelectriqueTier2",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "puceelectrique_tier_2"
+    },
+    {
+      "name": "RecipeSolarPannelTier2",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_solar_pannel_tier_2"
+    },
+    {
+      "name": "RecipePuceTier2",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_puce_tier_2"
+    },
+    {
+      "name": "RecipePuceTier1",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_puce_tier_1"
+    },
+    {
+      "name": "PuceelectriqueTier3",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "puceelectrique_tier_3"
+    },
+    {
+      "name": "RecipeSolarPannelTier3",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_solar_pannel_tier_3"
+    },
+    {
+      "name": "RecipePuceTier3",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_puce_tier_3"
+    },
+    {
+      "name": "RecipeMarteau",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_marteau"
+    },
+    {
+      "name": "IronPlateItemIsCraftedsmelted",
+      "type": "procedure",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_plate_item_is_craftedsmelted",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "QuestBook",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quest_book"
+    },
+    {
+      "name": "GUIQuestBook0",
+      "type": "gui",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gui_quest_book_0"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "QuestBook0",
+      "type": "logic",
+      "scope": "player_persistent",
+      "value": "false"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.survivalmod.iron_plate": "Iron Plate",
+      "item.survivalmod.puceelctrique": "Puce électrique tier1",
+      "block.survivalmod.cobble_generator": "Cobble Generator",
+      "itemGroup.tabautomate": "Automates",
+      "item.survivalmod.puceelectrique_tier_2": "Puce électrique tier2",
+      "item.survivalmod.puceelectrique_tier_3": "Puce électrique Tier 3",
+      "item.survivalmod.mateau": "Mateau",
+      "block.survivalmod.solar_pannel_tier_1": "Solar Pannel Tier 1",
+      "block.survivalmod.solar_pannel_tier_2": "Solar Pannel Tier 2",
+      "item.survivalmod.dirt_graine": "Dirt Graine",
+      "block.survivalmod.solar_pannel_tier_3": "Solar Pannel Tier 3",
+      "item.survivalmod.quest_book": "Quest Book"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "survivalmod",
+    "modName": "SurvivalMod",
+    "version": "1.0.0",
+    "author": "nicol, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.survivalmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

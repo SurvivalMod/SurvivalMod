@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "survivalmod:blocks/solarpanneltier1",
+    "up": "survivalmod:blocks/solarpanneltier3",
+    "north": "survivalmod:blocks/solarpanneltier1",
+    "east": "survivalmod:blocks/solarpanneltier1",
+    "south": "survivalmod:blocks/solarpanneltier1",
+    "west": "survivalmod:blocks/solarpanneltier1",
+    "particle": "survivalmod:blocks/solarpanneltier1"
+  }
+}
