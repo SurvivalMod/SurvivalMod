@@ -1,0 +1,26 @@
+{
+  "_fv": 10,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "X: <x> Y: <y> Z:<z>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "X: <x> Y: <y> Z:<z>",
+          "x": 30,
+          "y": 24
+        }
+      }
+    ],
+    "baseTexture": "",
+    "displayCondition": {
+      "name": "OverlayXYZDisplayOverlayIngame"
+    }
+  }
+}

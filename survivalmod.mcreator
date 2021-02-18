@@ -340,6 +340,33 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "gui_quest_book_0"
+    },
+    {
+      "name": "OverlayXYZDisplayOverlayIngame",
+      "type": "procedure",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "overlay_xyz_display_overlay_ingame",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "OverlayXYZ",
+      "type": "overlay",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "overlay_xyz"
     }
   ],
   "variable_elements": [
